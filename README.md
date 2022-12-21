@@ -8,6 +8,11 @@
 - 🧑‍🤝‍🧑 Looking for new and fun projects
 - ✈️ Fun fact: Biggest swedish FiveM Bignamer
 
+
+### Game Developer
+
+<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
