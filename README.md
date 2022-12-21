@@ -8,6 +8,8 @@
 - 🧑‍🤝‍🧑 Looking for new and fun projects
 - ✈️ Fun fact: Biggest swedish FiveM Bignamer
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2X3MaUHwJX3LfuP7vFLGXy?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
