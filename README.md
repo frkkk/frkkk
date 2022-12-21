@@ -8,6 +8,17 @@
 - 🧑‍🤝‍🧑 Looking for new and fun projects
 - ✈️ Fun fact: Biggest swedish FiveM Bignamer
 
+<html>
+  <head>
+    <title>Min Spotify Lista</title>
+  </head>
+  <body>
+    <h1>Min Spotify Lista</h1>
+    <p>En lista på bignamer låtar:</p>
+    <iframe src="https://open.spotify.com/embed/playlist/2X3MaUHwJX3LfuP7vFLGXy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  </body>
+</html>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
