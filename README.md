@@ -7,11 +7,7 @@
 - 🤔 I’m currently learning more advanced Vue.JS and Figma
 - 🧑‍🤝‍🧑 Looking for new and fun projects
 - ✈️ Fun fact: Biggest swedish FiveM Bignamer
-
-
-### Game Developer
-
-<img align="left" alt="Unity" width="20px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" />
+- <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" /> Game Developer
 
 
 
