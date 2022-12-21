@@ -1,4 +1,4 @@
-# Hi there,[frk] 👋 
+# Hi there, I'm [frk] 👋 
 
 ## I'm a Programmer with alot of freetime!
 
