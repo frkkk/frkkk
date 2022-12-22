@@ -4,7 +4,7 @@
 
 - ESX, & QBCore Framework Developer
 - 🔭 Check out my free releases!
-- 🤔 I’m currently learning more advanced Vue.JS and Figma
+- 🤔 I’m currently learning more advanced backend
 - 🧑‍🤝‍🧑 Looking for new and fun projects
 - ✈️ Fun fact: Biggest swedish FiveM Bignamer
 - <img align="left" alt="Unity" width="23px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" /> Game Developer
